@@ -1,0 +1,40 @@
+.colourtxt1{
+           background-color:rgb(86, 135, 115);
+           color:white;
+           widith:60px;
+           height:100px; 
+           border:3px solid rgb(86, 135, 115);
+           padding-left:500px;
+           padding-top:10px;
+          }
+#colourtxt2{
+       
+          }
+#colourtxt3{
+       
+          }
+#another-colour1{
+                 background:rgb(60, 179, 113);
+               }
+.another-colour2{
+     
+                 background-color:rgb(60, 60, 60);
+                 color:white;
+               }
+#colouring-bground{
+              
+           background-color:rgb(60, 60, 60);
+
+           }
+
+#size-of-font0{
+               font-size: 40px;
+               font-weight: bold; 
+             }
+.font-fam{
+
+          font-family: cursive;
+           
+         }
+
+
